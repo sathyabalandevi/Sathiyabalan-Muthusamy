@@ -1,0 +1,48 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #1dc7c5;
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+}
+
+header p {
+  font-size: 18px;
+  color: black;
+  font-style: italic;
+  
+}
+h1{
+    text-transform: capitalize;
+    color: blanchedalmond;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;
+  background-color: rgb(37, 37, 165);
+  color: white;
+  border-radius: 20px;
+  box-shadow: 2px 4px 3px black;
+}
+button:hover{
+    background-color: rgb(212, 80, 80);
+}
+
+#message {
+  margin-top: 20px;
+  font-weight: bold;
+  color: green;
+}
+.line{
+    color: black;
+    size: 30px;
+}
+footer {
+  margin-top: 50px;
+  font-size: 14px;
+  color:white;
+}
